@@ -1,0 +1,19 @@
+{
+  "name": "Waqas Khan",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Civil Engineer turned to **Web developer**. Love Cats and Dogs.",
+  "avatar": "https://avatars.githubusercontent.com/u/58432574?s=400&u=c390c8b2ef71f218b16347b16bf2be38d6caebd2&v=4",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/wagaskon",
+      "icon": "FaTwitter"
+    }
+    {
+      "name": "Follow me on Github",
+      "url": "https://github.com/wagaskon",
+      "icon": "FaGithub"
+    }
+  ]
+}
